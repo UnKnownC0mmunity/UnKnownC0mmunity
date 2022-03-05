@@ -1,4 +1,4 @@
-[![Header](https://cdn.discordapp.com/attachments/869727889510252607/870391940707917865/a0926243919_10.png "Header")]
+![Header](https://cdn.discordapp.com/attachments/869727889510252607/870391940707917865/a0926243919_10.png "Header")
 
 ## ✔️ Info
 - 👋 Hi, We're @UnKnownC0mmunity , An unknown group with a unspecified number of members , genders or age
